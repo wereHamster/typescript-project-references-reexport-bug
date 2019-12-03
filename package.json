@@ -1,0 +1,7 @@
+{
+  "name": "typescript-project-references-reexport-bug",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^3.8.0-dev.20191203"
+  }
+}
