@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "rootDir": "..",
+    "composite": true,
     "outDir": "../../out"
   },
   "include": ["**/*.ts"],
